@@ -6,64 +6,64 @@
           {
             "name": "run_agent.py",
             "type": "code",
-            "path": "codeSample.py"
+            "path": "/codeSample.py"
           },
           {
             "name": "INSTRUCTIONS.md",
             "type": "readme",
-            "path": "README-noazd.md"
+            "path": "/README-noazd.md"
           },
           {
             "name": "requirements.txt",
             "type": "dependencies",
-            "path": "requirements.txt"
+            "path": "/requirements.txt"
           },
           {
             "name": ".env",
             "type": "env",
-            "path": ".env"
+            "path": "/.env"
           },
           {
             "name": "install.sh",
             "type": "install",
-            "path": "install.sh"
+            "path": "/install.sh"
           },
           {
             "name": ".gitignore",
             "type": "code",
-            "path": ".gitignore"
+            "path": "/.gitignore"
           }
         ],
         "endpoint": [
           {
             "name": "run_agent.py",
             "type": "code",
-            "path": "endpointCodeSample.py"
+            "path": "/endpointCodeSample.py"
           },
           {
             "name": "INSTRUCTIONS.md",
             "type": "readme",
-            "path": "README.md"
+            "path": "/README.md"
           },
           {
             "name": "requirements.txt",
             "type": "dependencies",
-            "path": "endpoint-requirements.txt"
+            "path": "/endpoint-requirements.txt"
           },
           {
             "name": ".env",
             "type": "env",
-            "path": ".env"
+            "path": "/.env"
           },
           {
             "name": "install.sh",
             "type": "install",
-            "path": "install.sh"
+            "path": "/install.sh"
           },
           {
             "name": ".gitignore",
             "type": "code",
-            "path": ".gitignore"
+            "path": "/.gitignore"
           }
         ]
       }
