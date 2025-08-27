@@ -28,26 +28,6 @@ In the left hand activity bar:
 - Make any changes to the agent definition
 - Update the agent in Azure AI Foundry
 
-## Add, provision and deploy web app that uses the agent
-
-To add a web app that uses your agent, run the next command. When asked what you would like to do with the files, we suggest selecting `Overwrite with versions from template`.
-
-```bash
-azd init -t https://github.com/Azure-Samples/get-started-with-ai-agents
-```
-
-You can provision and deploy this web app using:
-
-```bash
-azd up
-```
-
-To delete the web app and stop incurring any charges, run:
-
-```bash
-azd down
-```
-
 ## Continuing on your local desktop
 
 You can keep working locally on VS Code Desktop by clicking "Continue On Desktop..." at the bottom left of this screen. Be sure to take the .env file with you using these steps:

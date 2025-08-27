@@ -1,0 +1,72 @@
+{
+  "ai-projects-sdk": {
+    "python": {
+      "default-azure-auth": {
+        "connectionString": [
+          {
+            "name": "run_agent.py",
+            "type": "code",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/codeSample.py"
+          },
+          {
+            "name": "INSTRUCTIONS.md",
+            "type": "readme",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/README-noazd.md"
+          },
+          {
+            "name": "requirements.txt",
+            "type": "dependencies",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/requirements.txt"
+          },
+          {
+            "name": ".env",
+            "type": "env",
+            "path": "/agents/code/en/getAgent-package/.env"
+          },
+          {
+            "name": "install.sh",
+            "type": "install",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/install.sh"
+          },
+          {
+            "name": ".gitignore",
+            "type": "code",
+            "path": "/agents/code/en/getAgent-package/.gitignore"
+          }
+        ],
+        "endpoint": [
+          {
+            "name": "run_agent.py",
+            "type": "code",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/endpointCodeSample.py"
+          },
+          {
+            "name": "INSTRUCTIONS.md",
+            "type": "readme",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/README.md"
+          },
+          {
+            "name": "requirements.txt",
+            "type": "dependencies",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/endpoint-requirements.txt"
+          },
+          {
+            "name": ".env",
+            "type": "env",
+            "path": "/agents/code/en/getAgent-package/.env"
+          },
+          {
+            "name": "install.sh",
+            "type": "install",
+            "path": "/agents/code/en/getAgent-package/ai-projects-sdk/python/default-azure-auth/install.sh"
+          },
+          {
+            "name": ".gitignore",
+            "type": "code",
+            "path": "/agents/code/en/getAgent-package/.gitignore"
+          }
+        ]
+      }
+    }
+ }   
+}
