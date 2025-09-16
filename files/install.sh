@@ -1,7 +1,7 @@
 pip install -r requirements.txt --user
 
 
-curl -L https://github.com/nchandhi/ncdatarepo1/archive/refs/heads/main.zip -o repo.zip \
+curl -sL https://github.com/nchandhi/ncdatarepo1/archive/refs/heads/main.zip -o repo.zip \
   && unzip -q repo.zip -d temp \
   && cp -r temp/ncdatarepo1-main/* . \
   && rm -rf temp repo.zip
