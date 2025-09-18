@@ -1,4 +1,4 @@
-pip install -r requirements.txt --user
+pip install -r requirements.txt --user -q
 
 
 curl -sL https://github.com/nchandhi/ncdatarepo1/archive/refs/heads/main.zip -o repo.zip \
